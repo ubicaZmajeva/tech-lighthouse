@@ -1,0 +1,359 @@
+[
+    {
+      "name": "Scrum",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Scrum is an agile framework for managing work with an emphasis on software development. It is designed for teams of three to nine developers who break their work into actions that can be completed within two-weeks iterations, called sprints and track progress and re-plan in 15-minute stand-up meetings, called daily scrums."
+    },
+    {
+      "name": "MVC (Model View Controller)",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Model–view–controller is an architectural pattern commonly used for developing user interfaces that divides an application into three interconnected parts. This is done to separate internal representations of information from the ways information is presented to and accepted from the user. The MVC design pattern decouples these major components allowing for efficient code reuse and parallel development."
+    },
+    {
+      "name": "Domain-Driven Design",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Domain-driven design (DDD) is an approach to software development for complex needs by connecting the implementation to an evolving model. The premise of domain-driven design is the following:\n - placing the project's primary focus on the core domain and domain logic;\n - basing complex designs on a model of the domain;\n - initiating a creative collaboration between technical and domain experts to iteratively refine a conceptual model that addresses particular domain problems.\n The term was coined by Eric Evans in his book of the same title."
+    },
+    {
+      "name": "Microservices",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Microservices is a variant of the service-oriented architecture (SOA) architectural style that structures an application as a collection of loosely coupled services. In a microservices architecture, services should be fine-grained and the protocols should be lightweight. The benefit of decomposing an application into different smaller services is that it improves modularity and makes the application easier to understand, develop and test. It also parallelizes development by enabling small autonomous teams to develop, deploy and scale their respective services independently."
+    },
+    {
+      "name": "Dependency Injection",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Dependency injection is a technique whereby one object (or static method) supplies the dependencies of another object. A dependency is an object that can be used (a service). An injection is the passing of a dependency to a dependent object (a client) that would use it. The service is made part of the client's state. Passing the service to the client, rather than allowing a client to build or find the service, is the fundamental requirement of the pattern. The intent behind dependency injection is to decouple objects to the extent that no client code has to be changed simply because an object it depends on needs to be changed to a different one. Dependency injection is one form of the broader technique of inversion of control."
+    },
+    {
+      "name": "Continuous Integration",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Continuous Integration (CI) is the process of automating the build and testing of code every time a team member commits changes to version control. CI encourages developers to share their code and unit tests by merging their changes into a shared version control repository after every small task completion. Committing code triggers an automated build system to grab the latest code from the shared repository and to build, test, and validate the full master branch."
+    },
+    {
+      "name": "Continuous Delivery",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Continuous delivery is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. It aims at building, testing, and releasing software faster and more frequently. The approach helps reduce the cost, time, and risk of delivering changes by allowing for more incremental updates to applications in production. A straightforward and repeatable deployment process is important for continuous delivery."
+    },
+    {
+      "name": "Pair Programming",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Continuous delivery is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. It aims at building, testing, and releasing software faster and more frequently. The approach helps reduce the cost, time, and risk of delivering changes by allowing for more incremental updates to applications in production. A straightforward and repeatable deployment process is important for continuous delivery."
+    },
+    {
+      "name": "GitFlow",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Gitflow Workflow is a Git workflow design that was first published and made popular by Vincent Driessen at nvie. The Gitflow Workflow defines a strict branching model designed around the project release. This provides a robust framework for managing larger projects."
+    },
+    {
+      "name": "Code Reviews",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Code review is systematic examination (sometimes referred to as peer review) of computer source code. It is intended to find mistakes overlooked in software development, improving the overall quality of software. Reviews are done in various forms such as pair programming, informal walkthroughs, and formal inspections."
+    },
+    {
+      "name": "Test-Driven Development",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Test-driven development (TDD) is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the software is improved to pass the new tests, only. This is opposed to software development that allows software to be added that is not proven to meet requirements."
+    },
+    {
+      "name": "Functional programming",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Functional programming is a programming paradigm—a style of building the structure and elements of computer programs—that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It is a declarative programming paradigm, which means programming is done with expressions or declarations instead of statements. In functional code, the output value of a function depends only on the arguments that are passed to the function, so calling a function f twice with the same value for an argument x produces the same result f(x) each time; this is in contrast to procedures depending on a local or global state, which may produce different results at different times when called with the same arguments but a different program state. Eliminating side effects, i.e., changes in state that do not depend on the function inputs, can make it much easier to understand and predict the behavior of a program, which is one of the key motivations for the development of functional programming."
+    },
+    {
+      "name": "RESTful",
+      "ring": "green",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "REpresentational State Transfer (REST), or RESTful web services provide interoperability between computer systems on the Internet. REST-compliant web services allow the requesting systems to access and manipulate textual representations of web resources by using a uniform and predefined set of stateless operations. Other kinds of web services, such as WSDL and SOAP, expose their own arbitrary sets of operations."
+    },
+    {
+      "name": "Visual Studio",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as web sites, web apps, web services and mobile apps. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code."
+    },
+    {
+      "name": "Selenium",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "Selenium is a portable software-testing framework for web applications. Selenium provides a playback (formerly also recording) tool for authoring tests without the need to learn a test scripting language (Selenium IDE). It also provides a test domain-specific language (Selenese) to write tests in a number of popular programming languages. The tests can then run against most modern web browsers."
+    },
+    {
+      "name": "NDepend",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "NDepend is a static analysis tool for .NET managed code. The tool supports a large number of code metrics, allowing to visualize dependencies using directed graphs and dependency matrix. The tool also performs code base snapshots comparisons, and validation of architectural and quality rules. User-defined rules can be written using LINQ queries. This feature is named CQLinq. The tool also comes with a large number of predefined CQLinq code rules. Code rules can be checked automatically in Visual Studio or during continuous integration."
+    },
+    {
+      "name": "dotTrace",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "dotTrace is a performance profiler that helps you detect performance bottlenecks in a variety of .NET and .NET Core applications"
+    },
+    {
+      "name": "ReSharper",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "ReSharper provides a series of features for Visual Studio developers including code analysis, refactoring, navigation, test runner, build runner and more."
+    },
+    {
+      "name": "Visio",
+      "ring": "yellow",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "Microsoft Visio is a diagramming and vector graphics application and is part of the Microsoft Office family."
+    },
+    {
+      "name": "Enterprise Architect",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "Sparx Systems Enterprise Architect is a visual modeling and design tool based on the OMG UML. The platform supports: the design and construction of software systems; modeling business processes; and modeling industry based domains. It is used by businesses and organizations to not only model the architecture of their systems, but to process the implementation of these models across the full application development life-cycle."
+    },
+    {
+      "name": "TeamCity",
+      "ring": "red",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "TeamCity is a Java-based build management and continuous integration server from JetBrains."
+    },
+    {
+      "name": "SonarQube",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "SonarQube is an open source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells and security vulnerabilities on 20+ programming languages. SonarQube offers reports on duplicated code, coding standards, unit tests, code coverage, code complexity, comments, bugs, and security vulnerabilities. SonarQube can record metrics history and provides evolution graphs. SonarQube's greatest asset is that it provides fully automated analysis and integration with Maven, Ant, Gradle, MSBuild and continuous integration tools."
+    },
+    {
+      "name": "SQL Server Management Studio",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "SQL Server Management Studio (SSMS) is a software application first launched with Microsoft SQL Server 2005 that is used for configuring, managing, and administering all components within Microsoft SQL Server. The tool includes both script editors and graphical tools which work with objects and features of the server."
+    },
+    {
+      "name": "Jira",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "Jira is a proprietary issue tracking product, developed by Atlassian. It provides bug tracking, issue tracking, and project management functions. According to one ranking method, as of June 2017, Jira is the most popular issue management tool."
+    },
+    {
+      "name": "Confluence",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "Confluence is a team collaboration software. Written in Java and mainly used in corporate environments, it is developed and marketed by Atlassian. Confluence is sold as either on-premises software or as software as a service."
+    },
+    {
+      "name": "Visual Studio Team Services",
+      "ring": "red",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development, but it can be used to keep track of changes in any set of files. As a distributed revision control system it is aimed at speed, data integrity, and support for distributed, non-linear workflows.\n Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development."
+    },
+    {
+      "name": "SQLMetal",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "The SqlMetal command-line tool generates code and mapping for the LINQ to SQL component of the .NET Framework"
+    },
+    {
+      "name": "PhantomJS",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "PhantomJS is a scripted, headless browser used for automating web page interaction. PhantomJS provides a JavaScript API enabling automated navigation, screenshots, user behavior and assertions making it a common tool used to run browser-based unit tests in a headless system like a continuous integration environment. PhantomJS is based on WebKit."
+    },
+    {
+      "name": "MigraDoc/PDFsharp",
+      "ring": "green",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "PDFsharp is the Open Source library that easily creates PDF documents from any .NET language. The same drawing routines can be used to create PDF documents, draw on the screen, or send output to any printer."
+    },
+    {
+      "name": "IIS",
+      "ring": "yellow",
+      "quadrant": "platforms",
+      "isNew": "FALSE",
+      "description": "Internet Information Services (IIS) is an extensible web server created by Microsoft for use with the Windows NT family. IIS supports HTTP, HTTP/2, HTTPS, FTP, FTPS, SMTP and NNTP."
+    },
+    {
+      "name": "MS SQL Server",
+      "ring": "green",
+      "quadrant": "platforms",
+      "isNew": "FALSE",
+      "description": "Microsoft SQL Server is a relational database management system developed by Microsoft. As a database server, it is a software product with the primary function of storing and retrieving data as requested by other software applications—which may run either on the same computer or on another computer across a network (including the Internet)."
+    },
+    {
+      "name": "Windows Server",
+      "ring": "yellow",
+      "quadrant": "platforms",
+      "isNew": "FALSE",
+      "description": "Windows Server is a brand name for a group of server operating systems released by Microsoft. It includes all Windows operating systems that are branded \"Windows Server\", but not any other Microsoft product."
+    },
+    {
+      "name": "Azure",
+      "ring": "green",
+      "quadrant": "platforms",
+      "isNew": "FALSE",
+      "description": "Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through a global network of Microsoft-managed data centers. It provides software as a service (SaaS), platform as a service (PaaS) and infrastructure as a service (IaaS) and supports many different programming languages, tools and frameworks, including both Microsoft-specific and third-party software and systems."
+    },
+    {
+      "name": "Google Cloud Platform",
+      "ring": "green",
+      "quadrant": "platforms",
+      "isNew": "FALSE",
+      "description": "Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube. Alongside a set of management tools, it provides a series of modular cloud services including computing, data storage, data analytics and machine learning. Registration requires a credit card or bank account details."
+    },
+    {
+      "name": "ElasticSearch",
+      "ring": "green",
+      "quadrant": "platforms",
+      "isNew": "FALSE",
+      "description": "Elasticsearch is a search engine based on Lucene. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents."
+    },
+    {
+      "name": "Tableau",
+      "ring": "green",
+      "quadrant": "platforms",
+      "isNew": "FALSE",
+      "description": "Tableau is a interactive data visualization product focused on business intelligence. It queries relational databases, OLAP cubes, cloud databases, and spreadsheets and then generates a number of graph types."
+    },
+    {
+      "name": "Elastic Stack (Kibana, Beats, Logstash)",
+      "ring": "green",
+      "quadrant": "platforms",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Git",
+      "ring": "green",
+      "quadrant": "platforms",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "C#",
+      "ring": "green",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Simple Injector",
+      "ring": "red",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "ASP.NET MVC",
+      "ring": "red",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": "The ASP.NET MVC is a web application framework developed by Microsoft, which implements the model–view–controller (MVC) pattern. It is open-source software, apart from the ASP.NET Web Forms component which is proprietary."
+    },
+    {
+      "name": "Batch Script",
+      "ring": "green",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": ".NET Core",
+      "ring": "green",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": ".NET Core is a free and open-source managed software framework for Windows, macOS and Linux."
+    },
+    {
+      "name": "jQuery",
+      "ring": "red",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "RabbitMQ",
+      "ring": "green",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "MassTransit",
+      "ring": "green",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "FAKE - F# Make",
+      "ring": "green",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "PowerShell",
+      "ring": "green",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "MsTest",
+      "ring": "green",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": ".NET WCF",
+      "ring": "yellow",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "SVN",
+      "ring": "red",
+      "quadrant": "platforms",
+      "isNew": "FALSE",
+      "description": ""
+    }
+  ]
